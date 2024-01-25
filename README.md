@@ -2,6 +2,9 @@
 
 A curated collection of monospaced fonts for coding and programming.
 
-| Font                     | Support Ligatures | Download                                                                                |
-| ------------------------ | ----------------- | --------------------------------------------------------------------------------------- |
-| [Fira Code](./FiraCode/) | ✅ Yes            | [Download](https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip) |
+| Font                                                             | Support Ligatures | Download                                                              | Brew                                           |
+| ---------------------------------------------------------------- | ----------------- | --------------------------------------------------------------------- | ---------------------------------------------- |
+| [Fira Code](https://github.com/tonsky/FiraCode)                  | ✅ Yes            | [Download](https://github.com/tonsky/FiraCode/releases/latest)        | `brew install --cask font-fira-code`           |
+| [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans) | ✅ Yes            | [Download](https://github.com/belluzj/fantasque-sans/releases/latest) | `brew install --cask font-fantasque-sans-mono` |
+
+<!-- ## Installing with Homebrew -->
