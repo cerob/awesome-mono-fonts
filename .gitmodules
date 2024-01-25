@@ -1,7 +1,15 @@
 [submodule "FiraCode"]
 	path = FiraCode
 	url = git@github.com:tonsky/FiraCode.git
-
 [submodule "FantasqueSansMono"]
 	path = FantasqueSansMono
 	url = git@github.com:belluzj/fantasque-sans.git
+[submodule "VictorMono"]
+	path = VictorMono
+	url = git@github.com:rubjo/victor-mono.git
+[submodule "SourceCodePro"]
+	path = SourceCodePro
+	url = git@github.com:adobe-fonts/source-code-pro.git
+[submodule "CascadiaCode"]
+	path = CascadiaCode
+	url = git@github.com:microsoft/cascadia-code.git
