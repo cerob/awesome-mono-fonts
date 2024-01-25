@@ -1,0 +1,11 @@
+{
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "files.eol": "\n",
+
+  // Other files
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
