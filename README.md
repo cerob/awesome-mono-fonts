@@ -1,5 +1,7 @@
 # Awesome Mono Fonts
 
+![Awesome Mono Fonts](https://badgen.net/static/awesome/mono-fonts/purple?icon=awesome)
+
 A curated collection of monospaced fonts for coding and programming.
 
 | Font                                                              | Supports Ligatures | Download                                                                              | Homebrew                                       |
