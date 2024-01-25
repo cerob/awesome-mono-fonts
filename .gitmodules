@@ -1,6 +1,7 @@
 [submodule "FiraCode"]
 	path = FiraCode
 	url = git@github.com:tonsky/FiraCode.git
-[submodule "fantasque-sans"]
+
+[submodule "FantasqueSansMono"]
 	path = FantasqueSansMono
 	url = git@github.com:belluzj/fantasque-sans.git
